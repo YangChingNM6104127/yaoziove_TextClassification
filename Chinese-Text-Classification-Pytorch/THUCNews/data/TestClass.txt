@@ -1,0 +1,10 @@
+Travel
+Quarantine
+Diagnosis
+Vaccine
+COVID19_Test
+Charge
+Working-Conditions
+Info_Face_Mask
+Effect
+Activity
